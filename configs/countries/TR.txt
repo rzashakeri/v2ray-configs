@@ -1,0 +1,1 @@
+vless://1bcdf167-928f-445d-852a-b0b73dc06d7c@sfndw7.dlroozane.net:443?sni=github.com&fp=chrome&sid=782dbb704cf2b781&pbk=LEPvdc6l0Ij1Y5FwYqZHnGUwu9GfGiAaluE0FA1loDA&security=reality&flow=xtls-rprx-vision&headerType=none&encryption=none&type=tcp#%40freeConfigw%20%F0%9F%93%A5
