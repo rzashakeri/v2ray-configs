@@ -1,1 +1,2 @@
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.131:443?security=tls&sni=www.discovergreatjobsandadvanceyourcareer.com&fp=chrome&type=tcp&headerType=none#%7C%20%40ArsalanVPN1_bot%20%7C%20%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%A7%D8%B2%20%D8%B1%D8%A8%D8%A7%D8%AA
+ss://YWVzLTEyOC1nY206Y2Q3MDZhMTA0Mjg0YTcwZjljZmZlNmFjMWRmNjNjMTg=@193.148.19.214:12798#%F0%9F%8C%9F%20%40MTproxy22_v2ray
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.40:443?security=tls&sni=cdn.discovergreatjobsandadvanceyourcareer.com&fp=&type=tcp#40-NetFreedom0

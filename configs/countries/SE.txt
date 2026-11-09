@@ -1,1 +1,0 @@
-vless://3bb97d46-789b-4229-88f6-9beb222a4137@88.216.223.100:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=smart.bachidze.com&fp=firefox&pbk=vzRgIP8Mvd9V6krwKxw5EwwzvC4uiaW3wo0Y2ri2_Wc&type=tcp&headerType=none#%7C%20%40ArsalanVPN1_bot%20%7C%20%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%A7%D8%B2%20%D8%B1%D8%A8%D8%A7%D8%AA
