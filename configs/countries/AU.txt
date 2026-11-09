@@ -1,1 +1,0 @@
-trojan://Trojan@82164024@au.tronsg.com:443?security=tls&sni=au.tronsg.com#%F0%9F%8C%9F%20%40MTproxy22_v2ray
