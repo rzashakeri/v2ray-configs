@@ -1,1 +1,0 @@
-vless://622654a4-b666-000b-9260-fb717e05154f@169.40.34.41:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=key-master-saver.com&fp=ios&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&sid=1c3e8241a8743df9&spx=/HesarWeb#%E2%80%A2%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20Finland%20-%20@HesarWeb
