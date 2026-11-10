@@ -1,3 +1,0 @@
-vless://1653818d-532e-46be-b825-384107fb7c3a@cdn.mediacorphub.org:443?security=tls&encryption=none&insecure=0&fp=firefox&type=grpc&serviceName=stats.v2.StreamService&allowInsecure=0&sni=cdn.mediacorphub.org#%40FarazV2ray%20
-vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.151:443?mode=gun&security=tls&encryption=none&insecure=0&fp=firefox&type=grpc&serviceName=hub.v1.ObjectService&allowInsecure=0&sni=assets.mediacorphub.org#%40FarazV2ray%20
-vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.152:443?mode=gun&security=tls&encryption=none&insecure=0&fp=firefox&type=grpc&serviceName=api.v1.FeedService&allowInsecure=0&sni=fetch.mediacorphub.org#%40FarazV2ray%20

@@ -1,1 +1,0 @@
-vless://90559189-7899-4f25-a6ba-1f9057f9e901@mw-ru3.star1905.org:443?security=reality&encryption=none&pbk=IEldBmyWyqLROTIsxi8SDphC6cMxp1Pah2sx-5-Wyic&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=mw-ru3.star1905.org&sid=0dd58a731e35d0c8#%40FarazV2ray%20
