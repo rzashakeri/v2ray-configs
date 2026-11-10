@@ -1,1 +1,1 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.106.143:22222?encryption=none&security=none&type=tcp#(S104)🇨🇵t.me/PrivateVPNs
+vless://SoonTeam%20@fr.abbaas.net:443?security=reality&encryption=none&pbk=wBh3jtk45kBonp2-uVqsx71F4ziNH7vZcU6DAC6t2xs&headerType=none&fp=chrome&spx=%2F96792ab71d05b03&type=tcp&sni=w-x.co&sid=4b8d26be#%40FarazV2ray%20
