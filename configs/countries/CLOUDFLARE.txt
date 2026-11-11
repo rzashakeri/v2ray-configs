@@ -1,1 +1,1 @@
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@fs.qicai99.com:443?path=%2F&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#%40FarazV2ray
+vless://3c052e77-2951-466c-a297-a1ca1cc4461b@n8.hyby.ir:2053?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=n8.hyby.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=n8.hyby.ir#
