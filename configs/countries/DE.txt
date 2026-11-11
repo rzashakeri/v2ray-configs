@@ -1,1 +1,1 @@
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@gemsubbgem.world:443?security=reality&encryption=none&pbk=6PJlXT9xrgJP8RXfhpWDMKPh4eqGt_IZmenc_a6v0gg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gemsubbgem.world#%40FarazV2ray%20
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.134:443?security=tls&insecure=0&host=%2F%3FTelegram---@bored_vpn&headerType=none&type=tcp&allowInsecure=0&sni=api.iloverussia2026.com#bored_vpn
