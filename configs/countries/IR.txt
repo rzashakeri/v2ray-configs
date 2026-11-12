@@ -1,0 +1,1 @@
+vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@87.248.149.50:443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=base.hosamobenl.co.uk#%40flyv2ray
