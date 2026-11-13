@@ -1,2 +1,1 @@
-vless://8733d1e5-6f6e-49bc-8c04-079ec4a8da64@static.66.192.105.178.clients.your-server.de.SavFasF.Ir:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=tcptlsdigikala.savfasf.ir#%40FarazV2ray
-vless://baded307-189c-4ffc-a271-9acdab51a324@online.shop.ir.eeso.cc:39653?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=online.shop.ir.eeso.cc#%40FarazV2ray
+vmess://eyJhZGQiOiIxMDkuNzAuNzQuMjE3IiwiaWQiOiI5ZWRlM2M1Zi1hNDc5LTQ1YWUtYmQyYS0wOTMxNTI0Yzk2NjciLCJuZXQiOiJ0Y3AiLCJwb3J0IjoxOTgyOSwicHMiOiLYp9qv2Ycg2YXbjNiu2YjYp9uMINmC2LfYuSDZhti024wg2KzZiNuM2YYg2LTZiCA6IEBmYXJzaXByb3h5Iiwic2N5IjoiYXV0byIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
