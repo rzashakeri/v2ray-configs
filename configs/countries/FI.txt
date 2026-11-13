@@ -1,0 +1,2 @@
+vless://b7b41f80-8477-4cc8-affb-2680c2478df8@fin1.trialkade.ir:12040?security=reality&encryption=none&pbk=yuNMNhM9R953IK0nvJrsfV2qiW8v8RxXLaRUalaETwI&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=testspeed-foreign.tci.ir&sid=1aac41ca1a05d782#%40NamiraConfigs
+vless://e50e6851-a29a-45a1-811d-1e9230c1512a@fi1.slowframe.org:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fi1.slowframe.org&fp=firefox&pbk=lQn0k9GCrG7Hh34b8ezAyVjc9KBCxQm3oP0xdxKGy0U&sid=35cb85e41b041622&type=tcp&headerType=none#Channel%20%3A%20%40Daily_Configs

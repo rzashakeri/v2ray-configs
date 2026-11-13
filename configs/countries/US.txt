@@ -1,1 +1,1 @@
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.209:23576?security=reality&type=tcp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s#%F0%9F%87%BA%F0%9F%87%B8US_95_@Surfboardv2ray
+vless://e07a6d05-f665-4811-91f0-9b3dc1094e4d@48.102.170.205:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=safari&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&sid=8f3c6e2a1b5d4f09&type=tcp&headerType=none#Channel%20%3A%20%40Daily_Configs
