@@ -1,1 +1,0 @@
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@50.7.193.150:443?security=reality&encryption=none&pbk=oAX7soFKfN3xURgCD26trmjeF-e-eEjW3pBVXuuvW0k&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=prime.jarbook.net&sid=77a8c8c8&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#Telegram%20%F0%9F%91%89%F0%9F%8F%BC%20%40planB_net%20%20%E2%80%A2%2008
