@@ -1,1 +1,0 @@
-vless://FastKey_632672@46.29.161.126:8080?path=%2Fapi&security=none&encryption=none&host=google.com&type=ws#%40%F0%9D%90%952_%F0%9D%90%8C%F0%9D%90%8E%F0%9D%90%83_%F0%9D%90%92%F0%9D%90%87%F0%9D%90%8E%F0%9D%90%8F-%F0%9F%87%B3%F0%9F%87%B1Netherlands
