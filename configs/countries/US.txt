@@ -1,1 +1,1 @@
-vless://e07a6d05-f665-4811-91f0-9b3dc1094e4d@48.102.170.205:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=safari&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&sid=8f3c6e2a1b5d4f09&type=tcp&headerType=none#Channel%20%3A%20%40Daily_Configs
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@gemsubbgem.world:443?security=reality&pbk=6PJlXT9xrgJP8RXfhpWDMKPh4eqGt_IZmenc_a6v0gg&fp=chrome&flow=xtls-rprx-vision&sni=gemsubbgem.world#%F0%9F%87%BA%F0%9F%87%B8%20%40NamiraConfigs
