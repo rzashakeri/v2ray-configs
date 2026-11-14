@@ -1,1 +1,0 @@
-vless://f2905db1-4c91-48fc-a101-705d1620e279@95.85.254.14:8443?encryption=none&security=tls&sni=pl2-edge.gacvpn.site&fp=firefox&type=grpc&authority=&serviceName=connect-pl&mode=gun#Channel%20%3A%20%40Daily_Configs

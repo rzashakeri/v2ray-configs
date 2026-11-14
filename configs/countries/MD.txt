@@ -1,1 +1,0 @@
-vless://f2905db1-4c91-48fc-a101-705d1620e279@143.246.205.2:8443?encryption=none&security=tls&sni=ch.gacvpn.site&fp=firefox&type=grpc&authority=&serviceName=connect-ch&mode=gun#Channel%20%3A%20%40Daily_Configs
