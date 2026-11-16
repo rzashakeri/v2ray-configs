@@ -1,1 +1,2 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.176.76.109:22222?encryption=none&security=none&type=tcp#(S101)🇬🇧t.me/PrivateVPNs
+vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.91.93.47:443?security=reality&encryption=none&pbk=WgTZR-o6VbFYeqb7iZNBh-izcWAQlpotOyxibJnAXVc&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=ios&spx=%2Fb4fcc6d25bda84e&type=tcp&flow=xtls-rprx-vision&sni=uk2.gofizz.in&sid=f51489cb3d7e8be2#Telegram%20%F0%9F%91%89%F0%9F%8F%BC%20%40planB_net%20%20%E2%80%A2%2004
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.135.233.153:22222?encryption=none&security=none&type=tcp#(S101)🇬🇧t.me/PrivateVPNs

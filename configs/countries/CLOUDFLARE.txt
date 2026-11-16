@@ -1,0 +1,1 @@
+vless://50414e45-4c5f-5a45-5553-8b680ff0aff9@31.43.179.111:2087?path=%2Fstream%2FPANEL_ZEUS%2F8b680ff0aff9&security=tls&host=l5zgnlesutjs.foxvpn551144.workers.dev&type=ws&sni=l5zgnlesutjs.foxvpn551144.workers.dev#%F0%9F%87%BA%F0%9F%87%B8%20%40NamiraConfigs
