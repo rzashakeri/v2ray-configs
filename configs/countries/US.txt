@@ -1,1 +1,2 @@
-vless://eb0e604e-1aae-4f2f-9f06-f57b58bf8bc5@openfpseerw-production.up.railway.app:443?path=%2Fapi%2Fzspi5J&security=tls&alpn=http%2F1.1&host=openfpseerw-production.up.railway.app&fp=chrome&type=ws&sni=openfpseerw-production.up.railway.app#%40NamiraConfigs
+trojan://gdFUznuOxJNorEKs@bncdsferna-production.up.railway.app:443?path=%2Fapi%2F6BzLhx&security=tls&alpn=http%2F1.1&host=bncdsferna-production.up.railway.app&fp=chrome&type=ws&sni=bncdsferna-production.up.railway.app#%40NamiraConfigs
+vless://52c2942f-1312-49a6-89f4-05b625cc8efd@bncdsferna-production.up.railway.app:443?path=%2Fapi%2FvINzak&security=tls&alpn=http%2F1.1&host=bncdsferna-production.up.railway.app&fp=chrome&type=ws&sni=bncdsferna-production.up.railway.app#%40NamiraConfigs
