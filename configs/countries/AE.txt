@@ -1,1 +1,0 @@
-vless://0ed9418b-e687-4c2d-8869-7e368c44887e@nl41.homelab-cdn.cloud:8443?security=reality&sni=nl41.homelab-cdn.cloud&fp=firefox&pbk=NW2c4t6gXODenb0_Mo5Qf-1nrJr5xFQm30zf-IVfHjY&sid=08&type=grpc&serviceName=grpc&mode=gun#%40NamiraConfigs
