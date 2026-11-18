@@ -1,1 +1,1 @@
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@app.streamru17.net:443?flow=xtls-rprx-vision&security=tls&sni=app.streamru17.net#%F0%9F%87%B5%F0%9F%87%B1%20%40NamiraConfigs
+vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@153.52.140.9:443?flow=xtls-rprx-vision&fp=firefox&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&security=reality&sid=027af64166562b09&sni=pl3.fox-lisa.ru&spx=/%3FTELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM#%40NamiraConfigs
