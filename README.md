@@ -39,7 +39,10 @@ when something actually changed.
 Notes / limits:
 
 - `t.me/s` only shows about the last 20 posts per channel, so the 30-minute
-  schedule is what keeps configs from being missed. It is not a permanent
-  archive — configs die fast, the files always hold the freshest ones.
+  schedule is what keeps configs from being missed.
+- **Retention: 48 hours.** A config stays in the files for 48 hours after it
+  was last seen in the channel — a repost refreshes the clock. Older configs
+  are pruned on every run (`configs/seen.json` tracks first/last seen time
+  per config). The files always hold configs posted in the last two days.
 - Location comes from the channel's own post header, not from IP lookup.
 - Posts that are files (e.g. NapsternetV) instead of config text are skipped.
