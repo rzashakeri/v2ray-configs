@@ -13,7 +13,12 @@ Outputs (under configs/):
   countries/<CODE>.txt   one file per country, e.g. DE.txt, US.txt, NL.txt
   countries/unknown.txt  configs whose post had no recognizable location
   (files are only written when they have at least one config)
+  seen.json          first/last seen timestamp per config (drives retention)
 Plus stats.json at the repo root with counts and the last run time.
+
+Retention: a config stays in the files for 48 hours after it was LAST seen
+in the channel (a repost refreshes the clock). Older entries are pruned on
+each run, so the subscription only holds configs that were posted recently.
 
 Location is taken from the post header, e.g.:
   "📂 کانفیگ VLESS | 📍 لوکیشن: آلمان 🇩🇪 | ..."
@@ -35,7 +40,12 @@ BASE = os.path.dirname(os.path.abspath(__file__))
 CHANNELS_FILE = os.path.join(BASE, "channels.json")
 OUT_DIR = os.path.join(BASE, "configs")
 COUNTRIES_DIR = os.path.join(OUT_DIR, "countries")
+SEEN_FILE = os.path.join(OUT_DIR, "seen.json")
 STATS_FILE = os.path.join(BASE, "stats.json")
+
+# Retention window: configs older than this since their LAST sighting in
+# the channel are pruned. A repost refreshes the clock.
+RETENTION_HOURS = 48
 
 UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
 
@@ -209,6 +219,25 @@ def write_file(path: str, lines: list[str]) -> None:
         f.write("\n".join(lines) + ("\n" if lines else ""))
 
 
+def parse_ts(value: str):
+    """ISO timestamp -> aware datetime, or None if unparseable."""
+    try:
+        dt = datetime.fromisoformat(value.replace("Z", "+00:00"))
+        return dt if dt.tzinfo else dt.replace(tzinfo=timezone.utc)
+    except Exception:
+        return None
+
+
+def load_seen() -> dict:
+    """seen.json: dedupe_key -> {config, protocol, country, first_seen, last_seen}."""
+    try:
+        with open(SEEN_FILE, encoding="utf-8") as f:
+            data = json.load(f)
+        return data if isinstance(data, dict) else {}
+    except Exception:
+        return {}
+
+
 def main() -> int:
     with open(CHANNELS_FILE, encoding="utf-8") as f:
         channels = json.load(f)
@@ -244,19 +273,64 @@ def main() -> int:
                 count += 1
         per_channel[username] = {"posts": len(posts), "configs": count}
 
+    # --- retention: merge fresh configs into the seen state, prune old ones.
+    now = datetime.now(timezone.utc)
+    now_iso = now.isoformat()
+    seen_state = load_seen()
+    for item in found:
+        key = dedupe_key(item["config"])
+        if not key:
+            continue
+        entry = seen_state.get(key)
+        if entry:
+            # Repost: refresh last_seen (and latest protocol/country), keep
+            # the original first_seen.
+            entry["config"] = item["config"]
+            entry["protocol"] = item["protocol"]
+            entry["country"] = item["country"]
+            entry["last_seen"] = now_iso
+        else:
+            seen_state[key] = {
+                "config": item["config"],
+                "protocol": item["protocol"],
+                "country": item["country"],
+                "first_seen": now_iso,
+                "last_seen": now_iso,
+            }
+    cutoff = now.timestamp() - RETENTION_HOURS * 3600
+    retained = []
+    pruned = 0
+    for key, entry in seen_state.items():
+        last_seen = parse_ts(entry.get("last_seen", ""))
+        if last_seen is None or last_seen.timestamp() < cutoff:
+            pruned += 1
+            continue
+        retained.append(entry)
+    # Newest sighting first.
+    retained.sort(key=lambda e: e.get("last_seen", ""), reverse=True)
+    seen_state = {
+        dedupe_key(e["config"]): e for e in retained if dedupe_key(e["config"])
+    }
+
     os.makedirs(COUNTRIES_DIR, exist_ok=True)
-    # Clear stale country files from previous runs.
+    # Clear stale country and protocol files from previous runs.
     for old in os.listdir(COUNTRIES_DIR):
         if old.endswith(".txt"):
             os.remove(os.path.join(COUNTRIES_DIR, old))
+    for old in os.listdir(OUT_DIR):
+        if old.endswith(".txt") and old not in ("all.txt", "all_base64.txt"):
+            os.remove(os.path.join(OUT_DIR, old))
+
+    with open(SEEN_FILE, "w", encoding="utf-8") as f:
+        json.dump(seen_state, f, ensure_ascii=False, indent=1, sort_keys=True)
 
     by_protocol: dict[str, list[str]] = {}
     by_country: dict[str, list[str]] = {}
-    for item in found:
+    for item in retained:
         by_protocol.setdefault(item["protocol"], []).append(item["config"])
         by_country.setdefault(item["country"], []).append(item["config"])
 
-    all_cfgs = [i["config"] for i in found]
+    all_cfgs = [i["config"] for i in retained]
     write_file(os.path.join(OUT_DIR, "all.txt"), all_cfgs)
     write_file(
         os.path.join(OUT_DIR, "all_base64.txt"),
@@ -273,6 +347,8 @@ def main() -> int:
     stats = {
         "updated_at_utc": datetime.now(timezone.utc).isoformat(),
         "channels": channels,
+        "retention_hours": RETENTION_HOURS,
+        "pruned_this_run": pruned,
         "total": len(all_cfgs),
         "by_protocol": {p: len(v) for p, v in sorted(by_protocol.items())},
         "by_country": {c: len(v) for c, v in sorted(by_country.items())},
