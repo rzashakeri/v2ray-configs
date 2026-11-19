@@ -1,0 +1,2 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.212:8080#%20
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.176.0.90:22222?encryption=none&security=none&type=tcp#(S102)🇬🇧t.me/PrivateVPNs

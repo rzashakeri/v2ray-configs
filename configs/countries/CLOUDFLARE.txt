@@ -1,1 +1,0 @@
-vless://eaf76557-2219-4799-8171-d7020adfefd0@104.18.151.231:443?host=workers.jijew83195.workers.dev&path=%2Fws&security=tls&sni=workers.jijew83195.workers.dev&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20%40NamiraConfigs
