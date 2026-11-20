@@ -1,2 +1,4 @@
+vless://a1cf2f59-ffe0-4cb3-8c68-e6abf44726fc@leviko-nl0448.shopingggg.ir:443?security=reality&encryption=none&pbk=MYmnKEaJyfk1HrBaKg3AvYebp-sP3rZRNh9MnOcKgXY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tradingview.com&sid=705f0a232571#%40flyv2ray
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@18.130.78.177:443#%40flyv2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.212:8080#%20
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.176.0.90:22222?encryption=none&security=none&type=tcp#(S102)🇬🇧t.me/PrivateVPNs

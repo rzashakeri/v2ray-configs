@@ -1,0 +1,1 @@
+trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.32:443?security=tls&sni=connect-se.mimowhat.online#%F0%9F%8C%9F%20%40MTproxy22_v2ray

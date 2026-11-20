@@ -1,1 +1,2 @@
+vless://a6142d9d-3f9f-47b7-b7e9-1245dd6a15d6@217.60.100.222:443?sni=217.60.100.222&flow=xtls-rprx-vision&fp=firefox&security=tls#🇪🇪[@Amirhossein_Mahboobi
 vless://13cca0fd-bb3e-44e4-9ced-1c6efcabbb03@95.85.243.72:443?security=reality&pbk=m3opvubdy_gjBiBkXnAw3eDUP4alVeVWxKkvZHIINjs&fp=firefox&sni=212.192.156.15&sid=426165a0badade80#%F0%9F%87%AA%F0%9F%87%AA%20%40NamiraConfigs
