@@ -1,0 +1,2 @@
+vless://1ddfa499-ca1e-460b-9c13-31c13f17b0d8@dash.r1c.lifestyle:25565?encryption=mlkem768x25519plus.native.0rtt.dQbYeJPo4efEGu8T4Gy-A_GIFQcUik9J9LhlksRcNEU&headerType=http&host=render.com#%F0%9F%87%B3%F0%9F%87%B1%20%40NamiraConfigs
+vless://1ddfa499-ca1e-460b-9c13-31c13f17b0d8@www.r1c.lifestyle:25565?encryption=mlkem768x25519plus.native.0rtt.dQbYeJPo4efEGu8T4Gy-A_GIFQcUik9J9LhlksRcNEU&headerType=http&host=render.com#%F0%9F%87%B3%F0%9F%87%B1%20%40NamiraConfigs
