@@ -45,14 +45,14 @@
   "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.213.23.63:990#%40FarazV2ray%20",
   "country": "NO",
   "first_seen": "2026-11-20T14:30:41.864527+00:00",
-  "last_seen": "2026-11-20T16:00:49.724640+00:00",
+  "last_seen": "2026-11-20T16:30:42.450351+00:00",
   "protocol": "ss"
  },
  "ss|y2hhy2hhmjatawv0zi1wb2x5mtmwntprmwrct21pqjrvcwk3vw1wmzdhmwjr@82.38.31.202:8080": {
   "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#%40FarazV2ray%20",
   "country": "GB",
   "first_seen": "2026-11-20T14:30:41.864527+00:00",
-  "last_seen": "2026-11-20T16:00:49.724640+00:00",
+  "last_seen": "2026-11-20T16:30:42.450351+00:00",
   "protocol": "ss"
  },
  "ss|y2hhy2hhmjatawv0zi1wb2x5mtmwntprmwrct21pqjrvcwk3vw1wmzdhmwjr@82.38.31.212:8080": {
@@ -66,7 +66,7 @@
   "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsWlp6Zm8xbXFIN1BxbmxvQW9nZGkyWEJobGdpb2ZNeQ@64.49.13.12:2089#%F0%9F%8C%9F%20%40MTproxy22_v2ray",
   "country": "TR",
   "first_seen": "2026-11-20T14:30:41.864527+00:00",
-  "last_seen": "2026-11-20T16:00:49.724640+00:00",
+  "last_seen": "2026-11-20T16:30:42.450351+00:00",
   "protocol": "ss"
  },
  "ss|ywvzlteyoc1ny206c2hhzg93c29ja3m=@156.146.38.170:443": {
@@ -80,14 +80,14 @@
   "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#%40FarazV2ray%20",
   "country": "NL",
   "first_seen": "2026-11-20T14:30:41.864527+00:00",
-  "last_seen": "2026-11-20T16:00:49.724640+00:00",
+  "last_seen": "2026-11-20T16:30:42.450351+00:00",
   "protocol": "ss"
  },
  "ss|ywvzlteyoc1ny206c2hhzg93c29ja3m@leviko-nl8242.shopingggg.ir:443": {
   "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@leviko-nl8242.shopingggg.ir:443#%40FarazV2ray%20",
   "country": "NL",
   "first_seen": "2026-11-20T14:30:41.864527+00:00",
-  "last_seen": "2026-11-20T16:00:49.724640+00:00",
+  "last_seen": "2026-11-20T16:30:42.450351+00:00",
   "protocol": "ss"
  },
  "ss|ywvzlti1ni1jzmi6cxdlcljfv1faqa==@p141.panda001.net:4652": {
@@ -136,7 +136,7 @@
   "config": "vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#%F0%9F%8C%9F%20%40MTproxy22_v2ray",
   "country": "US",
   "first_seen": "2026-11-20T14:30:41.864527+00:00",
-  "last_seen": "2026-11-20T16:00:49.724640+00:00",
+  "last_seen": "2026-11-20T16:30:42.450351+00:00",
   "protocol": "vless"
  },
  "vless|153f757d-bb02-61b2-e492-f7fa6f9eaf0d@whitepanel-ui-production-2831b28a.up.railway.app:443": {
@@ -150,14 +150,14 @@
   "config": "vless://1ddfa499-ca1e-460b-9c13-31c13f17b0d8@dash.r1c.lifestyle:25565?encryption=mlkem768x25519plus.native.0rtt.dQbYeJPo4efEGu8T4Gy-A_GIFQcUik9J9LhlksRcNEU&headerType=http&host=render.com#%F0%9F%87%B3%F0%9F%87%B1%20%40NamiraConfigs",
   "country": "UNKNOWN",
   "first_seen": "2026-11-20T14:30:41.864527+00:00",
-  "last_seen": "2026-11-20T16:00:49.724640+00:00",
+  "last_seen": "2026-11-20T16:30:42.450351+00:00",
   "protocol": "vless"
  },
  "vless|1ddfa499-ca1e-460b-9c13-31c13f17b0d8@www.r1c.lifestyle:25565": {
   "config": "vless://1ddfa499-ca1e-460b-9c13-31c13f17b0d8@www.r1c.lifestyle:25565?encryption=mlkem768x25519plus.native.0rtt.dQbYeJPo4efEGu8T4Gy-A_GIFQcUik9J9LhlksRcNEU&headerType=http&host=render.com#%F0%9F%87%B3%F0%9F%87%B1%20%40NamiraConfigs",
   "country": "UNKNOWN",
   "first_seen": "2026-11-20T14:30:41.864527+00:00",
-  "last_seen": "2026-11-20T16:00:49.724640+00:00",
+  "last_seen": "2026-11-20T16:30:42.450351+00:00",
   "protocol": "vless"
  },
  "vless|25ac78e7-6d1d-4c9a-a450-c01a4871769f@marsh.moltex.click:443": {
@@ -185,14 +185,14 @@
   "config": "vless://265ecca2-4733-49de-b2c9-ed7f0e999655@193.233.219.98:443?path=%2Fapi%2Fvless&security=tls&encryption=none&insecure=0&host=vpn-rating.space&fp=firefox&type=ws&allowInsecure=0&sni=daily-author.ru#%40FarazV2ray%20",
   "country": "RU",
   "first_seen": "2026-11-20T14:30:41.864527+00:00",
-  "last_seen": "2026-11-20T16:00:49.724640+00:00",
+  "last_seen": "2026-11-20T16:30:42.450351+00:00",
   "protocol": "vless"
  },
  "vless|3cfa0d9b-6279-4b73-8533-09ad84e49c80@57.129.41.216:80": {
   "config": "vless://3cfa0d9b-6279-4b73-8533-09ad84e49c80@57.129.41.216:80?path=/vless/&security=none&encryption=none&host=OV-Germany1.09vpn.com&type=ws#%F0%9F%8C%9F%20%40MTproxy22_v2ray",
   "country": "DE",
   "first_seen": "2026-11-20T14:30:41.864527+00:00",
-  "last_seen": "2026-11-20T16:00:49.724640+00:00",
+  "last_seen": "2026-11-20T16:30:42.450351+00:00",
   "protocol": "vless"
  },
  "vless|4727d627-3505-4b87-9b04-9e1ae0049720@dash.zeneco.ir:53231": {
@@ -206,7 +206,7 @@
   "config": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.25:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=%2F%3F%40V2ray_confiig&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%40FarazV2ray%20",
   "country": "NL",
   "first_seen": "2026-11-20T14:30:41.864527+00:00",
-  "last_seen": "2026-11-20T16:00:49.724640+00:00",
+  "last_seen": "2026-11-20T16:30:42.450351+00:00",
   "protocol": "vless"
  },
  "vless|48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576": {
@@ -227,7 +227,7 @@
   "config": "vless://51e031fc-2145-45b8-9d0d-304d8288fc8e@195.216.168.74:8080?encryption=mlkem768x25519plus.native.0rtt._qY-brAcMXtzprRGmtNR-3jlCCnlvdg7Lg-v4pbGFE0&headerType=http&path=%2F%40VPN_KING_V2RAY&host=digikala.com#%F0%9F%87%AA%F0%9F%87%B8%20%40NamiraConfigs",
   "country": "FR",
   "first_seen": "2026-11-20T14:30:41.864527+00:00",
-  "last_seen": "2026-11-20T16:00:49.724640+00:00",
+  "last_seen": "2026-11-20T16:30:42.450351+00:00",
   "protocol": "vless"
  },
  "vless|5727f9a4-42d9-4569-8016-0e1098da37ec@78.17.96.242:2083": {
@@ -297,7 +297,7 @@
   "config": "vless://97be5ac0-dae3-43c1-aae8-3fcb7b130c59@netherlanddocjac.whooisthebest.ir:10000?fp=chrome&pbk=Du5pk4KuMNA1sRcSpmuoLuC0HmxDBmFljFNfUzqxKiM&security=reality&sid=cd0a1986719e44c8&sni=amp-api-edge.apps.apple.com#%F0%9F%87%B3%F0%9F%87%B1%20%40NamiraConfigs",
   "country": "RS",
   "first_seen": "2026-11-20T14:30:41.864527+00:00",
-  "last_seen": "2026-11-20T16:00:49.724640+00:00",
+  "last_seen": "2026-11-20T16:30:42.450351+00:00",
   "protocol": "vless"
  },
  "vless|97be5ac0-dae3-43c1-aae8-3fcb7b130c59@render.com:2083": {
@@ -360,7 +360,7 @@
   "config": "vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?security=reality&encryption=none&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=83#%F0%9F%8C%9F%20%40MTproxy22_v2ray",
   "country": "KZ",
   "first_seen": "2026-11-20T14:30:41.864527+00:00",
-  "last_seen": "2026-11-20T16:00:49.724640+00:00",
+  "last_seen": "2026-11-20T16:30:42.450351+00:00",
   "protocol": "vless"
  },
  "vless|c03e2f3e-fe3d-4ae1-b5a0-36ce98c3876f@de.azrping.com:8080": {
@@ -395,14 +395,14 @@
   "config": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.127.161:22222?encryption=none&security=none&type=tcp#(S104)🇨🇵t.me/PrivateVPNs",
   "country": "FR",
   "first_seen": "2026-11-20T14:30:41.864527+00:00",
-  "last_seen": "2026-11-20T16:00:49.724640+00:00",
+  "last_seen": "2026-11-20T16:30:42.450351+00:00",
   "protocol": "vless"
  },
  "vless|e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.62.190:22222": {
   "config": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.62.190:22222?encryption=none&security=none&type=tcp#(S103)🇨🇵t.me/PrivateVPNs",
   "country": "FR",
   "first_seen": "2026-11-20T14:30:41.864527+00:00",
-  "last_seen": "2026-11-20T16:00:49.724640+00:00",
+  "last_seen": "2026-11-20T16:30:42.450351+00:00",
   "protocol": "vless"
  },
  "vless|e4514801-0d5a-42ba-869f-39bd605aef9e@35.176.0.90:22222": {
@@ -437,7 +437,7 @@
   "config": "vmess://eyJhZGQiOiIzOC45MS4xMDcuNDkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoiQEZhcmF6VjJyYXkgIiwic2N5IjoiYXV0byIsInNuaSI6IjM4LjkxLjEwNy40OSIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==",
   "country": "US",
   "first_seen": "2026-11-20T14:30:41.864527+00:00",
-  "last_seen": "2026-11-20T16:00:49.724640+00:00",
+  "last_seen": "2026-11-20T16:30:42.450351+00:00",
   "protocol": "vmess"
  },
  "vmess|dp8yk.xiaoyan.io|904f0569-8695-466f-97cf-0de2face1b46|16616": {
