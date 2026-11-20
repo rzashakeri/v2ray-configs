@@ -1,5 +1,5 @@
-vless://713142c9-ad09-4894-b35c-645423f3f6c9@mirror.embrofree.org:443?security=reality&sni=dl-cdn.alpinelinux.org&fp=firefox&pbk=wfp4jyEksrozyS739zqIsNXySoqeEVtaQlVmeNeLp28#%F0%9F%87%B0%F0%9F%87%B7%20%40NamiraConfigs
 vless://5508bd06-ab98-4806-a8cc-4edd52fbf2f4@ne187135.cdn-video.pro:443?type=ws&path=%2Frealtime%2Fv1%2Fwebsocket&heartbeatPeriod=15&security=tls&sni=ne187135.cdn-video.pro&fp=chrome&alpn=http%2F1.1#%F0%9F%87%B3%F0%9F%87%B1%20%40NamiraConfigs
+vless://713142c9-ad09-4894-b35c-645423f3f6c9@mirror.embrofree.org:443?security=reality&sni=dl-cdn.alpinelinux.org&fp=firefox&pbk=wfp4jyEksrozyS739zqIsNXySoqeEVtaQlVmeNeLp28#%F0%9F%87%B0%F0%9F%87%B7%20%40NamiraConfigs
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#%40FarazV2ray%20
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@leviko-nl8242.shopingggg.ir:443#%40FarazV2ray%20
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.25:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=%2F%3F%40V2ray_confiig&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%40FarazV2ray%20
