@@ -1,15 +1,15 @@
 {
-  "updated_at_utc": "2026-11-21T11:00:44.919001+00:00",
+  "updated_at_utc": "2026-11-21T11:30:47.030972+00:00",
   "channels": [
     "persianvpnhub"
   ],
   "retention_hours": 48,
   "pruned_this_run": 0,
-  "total": 112,
+  "total": 113,
   "by_protocol": {
     "ss": 25,
     "trojan": 3,
-    "vless": 80,
+    "vless": 81,
     "vmess": 4
   },
   "by_country": {
@@ -22,7 +22,7 @@
     "CY": 1,
     "DE": 18,
     "DK": 1,
-    "EE": 2,
+    "EE": 3,
     "FI": 4,
     "FR": 12,
     "GB": 13,
@@ -44,7 +44,7 @@
   "per_channel": {
     "persianvpnhub": {
       "posts": 20,
-      "configs": 20
+      "configs": 17
     }
   }
 }
