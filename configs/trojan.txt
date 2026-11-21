@@ -1,3 +1,4 @@
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.158:443?security=tls&type=tcp&sni=api.yourultimateprofessionalcareerhub.com#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?security=tls&sni=courses.iloverussia2026.com#%F0%9F%87%A9%F0%9F%87%AA%20%40NamiraConfigs
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.78:443?security=tls&fp=chrome&sni=www.iloverussia2026.com#%F0%9F%87%A9%F0%9F%87%AA%20%40NamiraConfigs
 trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.32:443?security=tls&sni=connect-se.mimowhat.online#%F0%9F%8C%9F%20%40MTproxy22_v2ray
