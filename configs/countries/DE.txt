@@ -17,4 +17,3 @@ vless://c6e84d7a-506c-4587-a994-9c168ccab910@afshin.daltoonserver.ir:8989?extra=
 vless://f4238940-0703-498a-9c14-650701714489@helixgaming.ir:5090?fp=chrome&pbk=MZkENaBoeKtwdwtpSS9baWGtXVnVI7idKiHi-ftXoGo&security=reality&sid=fc12b9387fe1&sni=play.google.com&spx=%2Fa6c6fa2d49e64c0&support-x25519mlkem768=true#%40NamiraConfigs
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@48.103.231.82:443?type=xhttp&security=reality&fp=chrome&pbk=jhVdP7NFUaEXGfrmOqJlMCHTvqn3fymbzPfPT6NO4i0&sid=f72d4a2c7cbbacb1&sni=80cb66x.nl13.h1clayd.click&path=/d610f026b146&host=80cb66x.nl13.h1clayd.click
 vless://fbe22815-0718-4eae-816f-e91c67d15b54@144.31.215.223:2096?security=tls&sni=stac1f5.rumedia-cdn.com&fp=firefox&type=ws&host=stac1f5.rumedia-cdn.com&path=%2Fcdn%2Fv3%2Flive#%F0%9F%87%A9%F0%9F%87%AA%20%40NamiraConfigs
-vless://3cfa0d9b-6279-4b73-8533-09ad84e49c80@57.129.41.216:80?path=/vless/&security=none&encryption=none&host=OV-Germany1.09vpn.com&type=ws#%F0%9F%8C%9F%20%40MTproxy22_v2ray

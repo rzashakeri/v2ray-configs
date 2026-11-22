@@ -13,4 +13,3 @@ vless://5980f1e1-970c-43b9-b3e8-a8ddd70ceadc@158.220.95.242:443?security=reality
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.43.146.80:22222?encryption=none&security=none&type=tcp#(S102)🇬🇧t.me/PrivateVPNs
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#%40FarazV2ray%20
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.56.87.87:22222?encryption=none&security=none&type=tcp#(S102)🇬🇧t.me/PrivateVPNs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#%40FarazV2ray%20
