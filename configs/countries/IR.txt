@@ -1,2 +1,1 @@
 vless://9e151ef2-bb30-4f02-a75f-2d0afc2b4f1b@nether.tuntun.ir:2053?encryption=none&security=reality&type=xhttp&headerType=none&path=%2Fhe&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%221000000-1000000%22%7D&sni=www.speedtest.net&fp=chrome&pbk=dyk2zK1Ic5EkuFhXUr7L0dgz7lsJ5H7vCzcBRH9tD04&sid=2455c70d3c407197#TUN%20%7C%20USA%F0%9F%87%BA%F0%9F%87%B8%20
-ss://YWVzLTI1Ni1nY206OXI2cjNoY2RkcnRxYjJvMQ==@62.60.193.9:2090#Test-h5r1anaryk
