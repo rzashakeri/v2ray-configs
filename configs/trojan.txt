@@ -1,3 +1,4 @@
+trojan://ZtO%40_qaircW2ija3wV@www.speedtest.net:2087?path=%2Ftr%2Fp3c3k0SUh6oOAhzaAtpu0ta%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=pkjmjpv7jgm0xcz40g95p.pages.dev&fp=chrome&type=ws&sni=PkJmJPV7Jgm0xCz40G95P.pagES.dEV#%40NamiraConfigs
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.85:443?security=tls&sni=cdn.connectingpeoplewithgreatjobs.com&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20%40NamiraConfigs
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.176:443?security=tls&sni=blog.nextjobopportunityandclaimyouridealrole.com#%F0%9F%87%BA%F0%9F%87%B8%20%40NamiraConfigs
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.59:443?security=tls&sni=api.nextjobopportunityandclaimyouridealrole.com#%F0%9F%87%BA%F0%9F%87%B8%20%40NamiraConfigs
