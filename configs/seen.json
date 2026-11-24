@@ -136,7 +136,7 @@
   "config": "trojan://t5ZTZ0bYgRLNmJKv-Wg2wmsMx21s6RhX@78.17.171.140:2053?path=%2F2fc2ec03a65d451dffa4592d68c43a29%3FTELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&security=tls&alpn=http%2F1.1&host=ra-p1.victorycloud.ru&type=ws&sni=ra-p1.victorycloud.ru#%40NamiraConfigs",
   "country": "PL",
   "first_seen": "2026-11-24T14:30:42.340743+00:00",
-  "last_seen": "2026-11-24T22:00:44.614096+00:00",
+  "last_seen": "2026-11-24T22:30:39.944151+00:00",
   "protocol": "trojan"
  },
  "trojan|zto%40_qaircw2ija3wv@www.speedtest.net:2087": {
@@ -171,7 +171,7 @@
   "config": "vless://36019976-8d8c-451c-a1d4-cb412d6fbcc9@y2wh6v.salamatradio.net:443?flow=xtls-rprx-vision&security=reality&sni=www.mozilla.org&fp=chrome&pbk=Um2DEwDkZRQboYGov-IChhlWbKRmQ1P8B2FVEcTrzUE&sid=e8d7e3da0692598d#%F0%9F%87%A9%F0%9F%87%AA%20%40NamiraConfigs",
   "country": "CY",
   "first_seen": "2026-11-24T14:30:42.340743+00:00",
-  "last_seen": "2026-11-24T22:00:44.614096+00:00",
+  "last_seen": "2026-11-24T22:30:39.944151+00:00",
   "protocol": "vless"
  },
  "vless|364d2d52-e61e-4e52-80ec-2bc6bdf15349@104.21.94.203:443": {
@@ -248,7 +248,7 @@
   "config": "vless://4a5e973a-d7b3-4823-9ebd-cb8e7de854db@static.204.251.62.46.clients.your-server.de:443?security=tls&alpn=h2,http/1.1&fp=chrome&sni=static.133.205.46.78.clients.your-server.de#%F0%9F%87%A9%F0%9F%87%AA%20%40NamiraConfigs",
   "country": "FI",
   "first_seen": "2026-11-24T14:30:42.340743+00:00",
-  "last_seen": "2026-11-24T22:00:44.614096+00:00",
+  "last_seen": "2026-11-24T22:30:39.944151+00:00",
   "protocol": "vless"
  },
  "vless|501a2da5-cb22-4a3f-915e-e3b821d1d62d@87.199.205.28:443": {
@@ -318,7 +318,7 @@
   "config": "vless://8b2db5b1-e042-44b1-891a-220f948fe827@185.227.137.69:443?flow=xtls-rprx-vision&security=reality&sni=www.google.com&fp=chrome&pbk=ygBHinch-Hdr9jq11BOT0pQqVEcRFrZ0y9_1jYeF0H8&sid=11e2da7275c7dff3#%F0%9F%87%B9%F0%9F%87%B7%20%40NamiraConfigs",
   "country": "TR",
   "first_seen": "2026-11-24T14:30:42.340743+00:00",
-  "last_seen": "2026-11-24T22:00:44.614096+00:00",
+  "last_seen": "2026-11-24T22:30:39.944151+00:00",
   "protocol": "vless"
  },
  "vless|920b3cd9-4f82-4669-bbd2-d4a28b9052c6@132.243.242.40:9543": {
@@ -374,7 +374,7 @@
   "config": "vless://9a6a8346-43fc-485f-936f-877f98a95cd1@95.38.38.201:2080?security=tls&host=g37.vcommunity.ir&sni=g37.vcommunity.ir&fp=chrome&alpn=http%2F1.1#%F0%9F%87%A9%F0%9F%87%AA%20%40NamiraConfigs",
   "country": "IR",
   "first_seen": "2026-11-24T14:30:42.340743+00:00",
-  "last_seen": "2026-11-24T22:00:44.614096+00:00",
+  "last_seen": "2026-11-24T22:30:39.944151+00:00",
   "protocol": "vless"
  },
  "vless|9dd38d60-e683-47c6-bd53-d71bdfee78f3@179.43.187.67:443": {
@@ -465,7 +465,7 @@
   "config": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.74:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%E2%AD%90%40lion_lion_vpn%E2%AD%90",
   "country": "DE",
   "first_seen": "2026-11-24T14:30:42.340743+00:00",
-  "last_seen": "2026-11-24T22:00:44.614096+00:00",
+  "last_seen": "2026-11-24T22:30:39.944151+00:00",
   "protocol": "vless"
  },
  "vless|d81db550-4787-467e-b98a-579ee9d41999@177.1.192.89:443": {
@@ -479,7 +479,7 @@
   "config": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.219.105:22222?encryption=none&security=none&type=tcp#(S104)🇨🇵t.me/PrivateVPNs",
   "country": "FR",
   "first_seen": "2026-11-24T14:30:42.340743+00:00",
-  "last_seen": "2026-11-24T22:00:44.614096+00:00",
+  "last_seen": "2026-11-24T22:30:39.944151+00:00",
   "protocol": "vless"
  },
  "vless|e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.103.0:22222": {
