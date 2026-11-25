@@ -1,2 +1,3 @@
+vless://490dc3b4-8d1d-49fd-840e-bd5277b41557@189.30.65.203:2083?encryption=none&type=grpc&serviceName=service-41f6a2a01377#%40F1lterbreakerbot-1%20%7C%20%F0%9F%87%AD%F0%9F%87%B0
 vless://490dc3b4-8d1d-49fd-840e-bd5277b41557@leviko-hk5711.shopingggg.ir:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=service-41f6a2a01377#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%A7%20%D8%A7%DB%8C%D9%86%D8%AC%D8%A7%F0%9F%91%88%F0%9F%91%88config_star1
 vless://920b3cd9-4f82-4669-bbd2-d4a28b9052c6@212.192.3.113:9543?security=reality&encryption=none&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=123abcdf#%40mehrosaboran
