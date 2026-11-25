@@ -1,10 +1,10 @@
 {
-  "updated_at_utc": "2026-11-25T00:00:46.067749+00:00",
+  "updated_at_utc": "2026-11-25T00:57:42.293277+00:00",
   "channels": [
     "persianvpnhub"
   ],
   "retention_hours": 48,
-  "pruned_this_run": 12,
+  "pruned_this_run": 0,
   "total": 79,
   "by_protocol": {
     "hysteria2": 1,
