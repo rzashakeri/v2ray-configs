@@ -17,7 +17,7 @@
   "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZmdFR3E1YTN0SmlMcFVx@20.234.98.208:443?#Telegram%3A%20%40Daily_Configs",
   "country": "IE",
   "first_seen": "2026-11-25T06:00:44.559982+00:00",
-  "last_seen": "2026-11-25T10:00:45.744890+00:00",
+  "last_seen": "2026-11-25T10:30:42.816313+00:00",
   "protocol": "ss"
  },
  "ss|y2hhy2hhmjatawv0zi1wb2x5mtmwntprmwrct21pqjrvcwk3vw1wmzdhmwjr@82.38.31.191:8080": {
@@ -31,14 +31,14 @@
   "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080?#Telegram%3A%20%40Daily_Configs",
   "country": "GB",
   "first_seen": "2026-11-25T06:00:44.559982+00:00",
-  "last_seen": "2026-11-25T10:00:45.744890+00:00",
+  "last_seen": "2026-11-25T10:30:42.816313+00:00",
   "protocol": "ss"
  },
  "ss|y2hhy2hhmjatawv0zi1wb2x5mtmwntprmwrct21pqjrvcwk3vw1wmzdhmwjr@82.38.31.217:8080": {
   "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080?#Telegram%3A%20%40Daily_Configs",
   "country": "GB",
   "first_seen": "2026-11-25T06:00:44.559982+00:00",
-  "last_seen": "2026-11-25T10:00:45.744890+00:00",
+  "last_seen": "2026-11-25T10:30:42.816313+00:00",
   "protocol": "ss"
  },
  "ss|y2hhy2hhmjatawv0zi1wb2x5mtmwntprmwrct21pqjrvcwk3vw1wmzdhmwjr@82.38.31.220:8080": {
@@ -66,14 +66,14 @@
   "config": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@79.127.184.104:19999?type=tcp&headerType=none#%40F1lterbreakerbot-7%20%7C%20%F0%9F%87%A8%F0%9F%87%AD",
   "country": "CH",
   "first_seen": "2026-11-25T06:00:44.559982+00:00",
-  "last_seen": "2026-11-25T10:00:45.744890+00:00",
+  "last_seen": "2026-11-25T10:30:42.816313+00:00",
   "protocol": "ss"
  },
  "trojan|0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.53:443": {
   "config": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.53:443?type=tcp&security=tls&headerType=none&sni=www.explorecreativejobsandenhanceyourcareerportfolio.com&insecure=1&allowInsecure=1#%40F1lterbreakerbot-4%20%7C%20%F0%9F%87%BA%F0%9F%87%B8",
   "country": "US",
   "first_seen": "2026-11-25T06:00:44.559982+00:00",
-  "last_seen": "2026-11-25T10:00:45.744890+00:00",
+  "last_seen": "2026-11-25T10:30:42.816313+00:00",
   "protocol": "trojan"
  },
  "trojan|0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.85:443": {
@@ -122,7 +122,7 @@
   "config": "trojan://lDU6Jpl4nSXA-x4sWmb1LQ@ipfast.kingmna.com:443?type=ws&security=tls&path=%2FTELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER&host=copy_az_channel_NUFiLTER_7i.global.ssl.fastly.net.&sni=cdn.akamai.steamstatic.com&insecure=1&allowInsecure=1#%40F1lterbreakerbot-5",
   "country": "US",
   "first_seen": "2026-11-25T06:00:44.559982+00:00",
-  "last_seen": "2026-11-25T10:00:45.744890+00:00",
+  "last_seen": "2026-11-25T10:30:42.816313+00:00",
   "protocol": "trojan"
  },
  "trojan|t5ztz0bygrlnmjkv-wg2wmsmx21s6rhx@78.17.171.140:2053": {
@@ -213,14 +213,14 @@
   "config": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&headerType=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#Telegram%3A%20%40Daily_Configs",
   "country": "FR",
   "first_seen": "2026-11-23T05:30:44.375063+00:00",
-  "last_seen": "2026-11-25T10:00:45.744890+00:00",
+  "last_seen": "2026-11-25T10:30:42.816313+00:00",
   "protocol": "vless"
  },
  "vless|490dc3b4-8d1d-49fd-840e-bd5277b41557@189.30.65.203:2083": {
   "config": "vless://490dc3b4-8d1d-49fd-840e-bd5277b41557@189.30.65.203:2083?encryption=none&type=grpc&serviceName=service-41f6a2a01377#%40F1lterbreakerbot-1%20%7C%20%F0%9F%87%AD%F0%9F%87%B0",
   "country": "AE",
   "first_seen": "2026-11-25T06:00:44.559982+00:00",
-  "last_seen": "2026-11-25T10:00:45.744890+00:00",
+  "last_seen": "2026-11-25T10:30:42.816313+00:00",
   "protocol": "vless"
  },
  "vless|490dc3b4-8d1d-49fd-840e-bd5277b41557@leviko-hk5711.shopingggg.ir:2083": {
@@ -262,28 +262,28 @@
   "config": "vless://531f2275-df96-46a1-be70-e654f0ed402f@104.16.250.250:8443?type=ws&security=tls&fp=firefox&host=worker3.hemip3575.workers.dev&sni=worker3.hemip3575.workers.dev#%F0%9F%87%AB%F0%9F%87%AE%20%40NamiraConfigs",
   "country": "CLOUDFLARE",
   "first_seen": "2026-11-25T06:00:44.559982+00:00",
-  "last_seen": "2026-11-25T10:00:45.744890+00:00",
+  "last_seen": "2026-11-25T10:30:42.816313+00:00",
   "protocol": "vless"
  },
  "vless|532f30c0-af1a-4b40-85b6-0c1a1ad26077@prim.jafarghasemiturkk.ir:8080": {
   "config": "vless://532f30c0-af1a-4b40-85b6-0c1a1ad26077@prim.jafarghasemiturkk.ir:8080?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=IUx9PcA6L5YQiQeJUREjmm2kL6bfWcwItuZYZvxPJhc&sid=17f04e8b&spx=%2Fd9f72c40a0b25fa&type=tcp&headerType=none#Telegram%3A%20%40Daily_Configs",
   "country": "DE",
   "first_seen": "2026-11-25T06:00:44.559982+00:00",
-  "last_seen": "2026-11-25T10:00:45.744890+00:00",
+  "last_seen": "2026-11-25T10:30:42.816313+00:00",
   "protocol": "vless"
  },
  "vless|53bbdad4-2f4e-45db-8df4-fa491a6a7227@172.64.154.113:8443": {
   "config": "vless://53bbdad4-2f4e-45db-8df4-fa491a6a7227@172.64.154.113:8443?encryption=none&security=tls&sni=freeceshi6.frii.site&type=ws&host=freeceshi6.frii.site&path=%2Fproxyip%3DProxyIP.JP.CMLiussss.netfp%3Dchrome#Telegram%3A%20%40Daily_Configs",
   "country": "CLOUDFLARE",
   "first_seen": "2026-11-25T06:00:44.559982+00:00",
-  "last_seen": "2026-11-25T10:00:45.744890+00:00",
+  "last_seen": "2026-11-25T10:30:42.816313+00:00",
   "protocol": "vless"
  },
  "vless|5980f1e1-970c-43b9-b3e8-a8ddd70ceadc@158.220.95.242:443": {
   "config": "vless://5980f1e1-970c-43b9-b3e8-a8ddd70ceadc@158.220.95.242:443?encryption=none&type=tcp&security=reality&headerType=none&sni=www.samsung.com&fp=chrome&insecure=1&allowInsecure=1&pbk=PCm0k-SvNd00cgNuqqnbCzmwVZd5vkgX2ZLk2_qngRs&sid=b60a93&spx=%2F97e87bd21631e30&flow=xtls-rprx-vision#%40F1lterbreakerbot-2%20%7C%20%F0%9F%87%AC%F0%9F%87%A7",
   "country": "GB",
   "first_seen": "2026-11-25T06:00:44.559982+00:00",
-  "last_seen": "2026-11-25T10:00:45.744890+00:00",
+  "last_seen": "2026-11-25T10:30:42.816313+00:00",
   "protocol": "vless"
  },
  "vless|5c74ed1a-ea18-4c7b-930f-492f387d6f63@static.152.3.18.78.clients.your-server.de:8443": {
@@ -339,7 +339,7 @@
   "config": "vless://920b3cd9-4f82-4669-bbd2-d4a28b9052c6@132.243.242.246:9543?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandexcloud.net&fp=ios&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&sid=123abcdf&type=tcp&headerType=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#Telegram%3A%20%40Daily_Configs",
   "country": "CY",
   "first_seen": "2026-11-25T06:00:44.559982+00:00",
-  "last_seen": "2026-11-25T10:00:45.744890+00:00",
+  "last_seen": "2026-11-25T10:30:42.816313+00:00",
   "protocol": "vless"
  },
  "vless|920b3cd9-4f82-4669-bbd2-d4a28b9052c6@132.243.242.40:9543": {
@@ -493,7 +493,7 @@
   "config": "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlRlbGVncmFtOiBARGFpbHlfQ29uZmlncyIsDQogICJhZGQiOiAiMTY5LjE5Ny4xNDIuMjIiLA0KICAicG9ydCI6ICIxODAwMCIsDQogICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiIsDQogICJpbnNlY3VyZSI6ICIwIiwNCiAgInZjbiI6ICIiLA0KICAicGNzIjogIiINCn0=",
   "country": "US",
   "first_seen": "2026-11-25T06:00:44.559982+00:00",
-  "last_seen": "2026-11-25T10:00:45.744890+00:00",
+  "last_seen": "2026-11-25T10:30:42.816313+00:00",
   "protocol": "vmess"
  },
  "vmess|38.91.107.49|f8c8dc3d-0d37-46b0-8b34-a7232882fcfe|18000": {
