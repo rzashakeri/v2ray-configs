@@ -101,7 +101,7 @@
   "config": "vless://08ef7604-b3a5-0001-b264-0038fa7c44fc@188.68.216.33:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pmdhivnevikmltdhqp.fcloudservices.site#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy",
   "country": "RU",
   "first_seen": "2026-11-25T16:30:39.975218+00:00",
-  "last_seen": "2026-11-25T22:30:37.513569+00:00",
+  "last_seen": "2026-11-25T23:00:47.393446+00:00",
   "protocol": "vless"
  },
  "vless|1d1eda2e-0bd7-4478-877b-1c5425c6c4dd@48.102.204.67:8443": {
@@ -115,7 +115,7 @@
   "config": "vless://33393561-4c63-416f-91dd-f88efc57c42a@hw3.modemjibi.com:993?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=hw3.modemjibi.com.#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy",
   "country": "DE",
   "first_seen": "2026-11-25T16:30:39.975218+00:00",
-  "last_seen": "2026-11-25T22:30:37.513569+00:00",
+  "last_seen": "2026-11-25T23:00:47.393446+00:00",
   "protocol": "vless"
  },
  "vless|36019976-8d8c-451c-a1d4-cb412d6fbcc9@y2wh6v.salamatradio.net:443": {
@@ -150,7 +150,7 @@
   "config": "vless://4828eb4e-cdf1-40a7-a540-950487c9b794@tpii.sublinkplas.ir:12190?security=reality&sni=delivery.mp.microsoft.com&fp=safari&pbk=33hVTwP-1rQYG0F92oXJ-o1zPo4Cc8n2Uml_i9tv6XM&sid=8101b9ba16eb77c7#%F0%9F%87%B5%F0%9F%87%B1%20%40NamiraConfigs",
   "country": "PL",
   "first_seen": "2026-11-25T16:30:39.975218+00:00",
-  "last_seen": "2026-11-25T22:30:37.513569+00:00",
+  "last_seen": "2026-11-25T23:00:47.393446+00:00",
   "protocol": "vless"
  },
  "vless|48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.19:23576": {
@@ -206,7 +206,7 @@
   "config": "vless://4eb9fe00-6a58-4e3f-a6ca-d9813928b828@helcf.shop-goldserver.shop:8443?fp=chrome&sni=helcf.shop-goldserver.shop&security=tls&alpn=http%2F1.1&host=helcf.shop-goldserver.shop&path=%2FeyJqdW5rIjoiT1dlV2hBbk52UTBxeCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsS&type=ws#%40NamiraConfigs",
   "country": "CLOUDFLARE",
   "first_seen": "2026-11-25T16:30:39.975218+00:00",
-  "last_seen": "2026-11-25T22:30:37.513569+00:00",
+  "last_seen": "2026-11-25T23:00:47.393446+00:00",
   "protocol": "vless"
  },
  "vless|501a2da5-cb22-4a3f-915e-e3b821d1d62d@87.199.205.28:443": {
@@ -374,14 +374,14 @@
   "config": "vless://d21d1bf2-206a-41c6-a40c-49bdd1f6f3be@104.27.127.133:2083?path=%2Fc216a10ece89acba%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=net-bridge-c9d0c4-gw.prod-relay-3c3937.workers.dev&fp=chrome&type=ws&sni=net-bridge-c9d0c4-gw.prod-relay-3c3937.workers.dev#%40NamiraConfigs",
   "country": "CLOUDFLARE",
   "first_seen": "2026-11-25T16:30:39.975218+00:00",
-  "last_seen": "2026-11-25T22:30:37.513569+00:00",
+  "last_seen": "2026-11-25T23:00:47.393446+00:00",
   "protocol": "vless"
  },
  "vless|d21d1bf2-206a-41c6-a40c-49bdd1f6f3be@104.27.25.196:443": {
   "config": "vless://d21d1bf2-206a-41c6-a40c-49bdd1f6f3be@104.27.25.196:443?path=%2Fc216a10ece89acba%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=net-bridge-c9d0c4-gw.prod-relay-3c3937.workers.dev&fp=chrome&type=ws&sni=net-bridge-c9d0c4-gw.prod-relay-3c3937.workers.dev#%40NamiraConfigs",
   "country": "CLOUDFLARE",
   "first_seen": "2026-11-25T16:30:39.975218+00:00",
-  "last_seen": "2026-11-25T22:30:37.513569+00:00",
+  "last_seen": "2026-11-25T23:00:47.393446+00:00",
   "protocol": "vless"
  },
  "vless|d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.74:443": {
@@ -402,7 +402,7 @@
   "config": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.135.49.91:22222?encryption=none&security=none&type=tcp#(S101)🇬🇧t.me/PrivateVPNs",
   "country": "GB",
   "first_seen": "2026-11-25T16:30:39.975218+00:00",
-  "last_seen": "2026-11-25T22:30:37.513569+00:00",
+  "last_seen": "2026-11-25T23:00:47.393446+00:00",
   "protocol": "vless"
  },
  "vless|ed809ef1-338d-4355-b9e8-2de0e522202f@leviko-us0433.shopingggg.ir:2095": {
@@ -423,14 +423,14 @@
   "config": "vmess://eyJhZGQiOiIxNTQuNDcuMTkuMjI1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicGNzIjoiIiwicG9ydCI6IjEyNzAiLCJwcyI6Itin2q/ZhyDZhduM2K7ZiNin24wg2YLYt9i5INmG2LTbjCDYrNmI24zZhiDYtNmIIDogQGZhcnNpcHJveHkiLCJzY3kiOiJhdXRvIiwic25pIjoieG1maGxweS5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=",
   "country": "AT",
   "first_seen": "2026-11-25T16:30:39.975218+00:00",
-  "last_seen": "2026-11-25T22:30:37.513569+00:00",
+  "last_seen": "2026-11-25T23:00:47.393446+00:00",
   "protocol": "vmess"
  },
  "vmess|162.251.61.46|5c040f1d-45db-43bd-8d46-e4950e433735|1270": {
   "config": "vmess://eyJhZGQiOiIxNjIuMjUxLjYxLjQ2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicGNzIjoiIiwicG9ydCI6IjEyNzAiLCJwcyI6Itin2q/ZhyDZhduM2K7ZiNin24wg2YLYt9i5INmG2LTbjCDYrNmI24zZhiDYtNmIIDogQGZhcnNpcHJveHkiLCJzY3kiOiJhdXRvIiwic25pIjoieG1maGxweS5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=",
   "country": "US",
   "first_seen": "2026-11-25T16:30:39.975218+00:00",
-  "last_seen": "2026-11-25T22:30:37.513569+00:00",
+  "last_seen": "2026-11-25T23:00:47.393446+00:00",
   "protocol": "vmess"
  },
  "vmess|169.197.142.22|f8c8dc3d-0d37-46b0-8b34-a7232882fcfe|18000": {
@@ -451,7 +451,7 @@
   "config": "vmess://eyJhZGQiOiI2Ny4yMjAuOTUuMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiLYp9qv2Ycg2YXbjNiu2YjYp9uMINmC2LfYuSDZhti024wg2KzZiNuM2YYg2LTZiCA6IEBmYXJzaXByb3h5Iiwic2N5IjoiYXV0byIsInNuaSI6ImxlYXJuLmhlYWx0aGNhcmVqb2JzaHViZW5oYW5jZW1lZGljYWxwcm9mZXNzaW9uYWxza2lsbHN0b2RheS5jb20iLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=",
   "country": "US",
   "first_seen": "2026-11-21T03:30:37.899350+00:00",
-  "last_seen": "2026-11-25T22:30:37.513569+00:00",
+  "last_seen": "2026-11-25T23:00:47.393446+00:00",
   "protocol": "vmess"
  },
  "vmess|leviko-se4660.shopingggg.ir|5c040f1d-45db-43bd-8d46-e4950e433735|1270": {
