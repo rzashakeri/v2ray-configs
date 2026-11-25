@@ -1,3 +1,2 @@
 trojan://t5ZTZ0bYgRLNmJKv-Wg2wmsMx21s6RhX@78.17.171.140:2053?path=%2F2fc2ec03a65d451dffa4592d68c43a29%3FTELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&security=tls&alpn=http%2F1.1&host=ra-p1.victorycloud.ru&type=ws&sni=ra-p1.victorycloud.ru#%40NamiraConfigs
 ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@217.30.10.70:9037#2384%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20NetFreedom0
-vless://d81db550-4787-467e-b98a-579ee9d41999@177.1.192.89:443?security=reality&pbk=XKFUTW9ZAlaaeuUGiKKx9FgLjdQch7pCiR1GC1xMcjk&fp=firefox&type=grpc&serviceName=grpc&sni=www.cloudflare.com&sid=aab4c8abf7a4c4e4#%F0%9F%87%B5%F0%9F%87%B1%20%40NamiraConfigs
