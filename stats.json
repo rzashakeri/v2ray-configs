@@ -1,17 +1,17 @@
 {
-  "updated_at_utc": "2026-11-26T03:00:42.640681+00:00",
+  "updated_at_utc": "2026-11-26T03:30:38.397594+00:00",
   "channels": [
     "persianvpnhub"
   ],
   "retention_hours": 48,
-  "pruned_this_run": 0,
-  "total": 78,
+  "pruned_this_run": 9,
+  "total": 69,
   "by_protocol": {
     "hysteria2": 1,
-    "ss": 10,
-    "trojan": 7,
-    "vless": 53,
-    "vmess": 7
+    "ss": 8,
+    "trojan": 6,
+    "vless": 48,
+    "vmess": 6
   },
   "by_country": {
     "AE": 3,
@@ -19,22 +19,22 @@
     "BG": 1,
     "CA": 1,
     "CH": 2,
-    "CLOUDFLARE": 12,
+    "CLOUDFLARE": 11,
     "CY": 3,
-    "DE": 11,
+    "DE": 9,
     "FI": 1,
     "FR": 4,
-    "GB": 6,
+    "GB": 4,
     "IE": 1,
     "IR": 1,
     "LV": 1,
-    "NL": 7,
+    "NL": 6,
     "PL": 2,
     "RU": 1,
     "SE": 2,
     "SG": 1,
-    "TR": 2,
-    "US": 15
+    "TR": 1,
+    "US": 13
   },
   "per_channel": {
     "persianvpnhub": {
