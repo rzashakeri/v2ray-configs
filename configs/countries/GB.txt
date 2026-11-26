@@ -1,3 +1,5 @@
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.168.77.79:22222?encryption=none&security=none&type=tcp#(S102)🇬🇧t.me/PrivateVPNs
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.176.26.184:22222?encryption=none&security=none&type=tcp#(S101)🇬🇧t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.135.49.91:22222?encryption=none&security=none&type=tcp#(S101)🇬🇧t.me/PrivateVPNs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080?#Telegram%3A%20%40Daily_Configs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080?#Telegram%3A%20%40Daily_Configs
