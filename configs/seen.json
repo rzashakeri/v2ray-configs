@@ -10,7 +10,7 @@
   "config": "ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.227.4:8080#0089%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20NetFreedom0%20",
   "country": "SG",
   "first_seen": "2026-11-26T01:00:42.147574+00:00",
-  "last_seen": "2026-11-26T03:30:38.391872+00:00",
+  "last_seen": "2026-11-26T04:00:46.288860+00:00",
   "protocol": "ss"
  },
  "ss|y2hhy2hhmjatawv0zi1wb2x5mtmwntoxzmdfr3e1ytn0smlmcfvx@20.234.98.208:443": {
@@ -38,21 +38,21 @@
   "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#%F0%9F%8C%9F%20%40MTproxy22_v2ray",
   "country": "US",
   "first_seen": "2026-11-26T01:00:42.147574+00:00",
-  "last_seen": "2026-11-26T03:30:38.391872+00:00",
+  "last_seen": "2026-11-26T04:00:46.288860+00:00",
   "protocol": "ss"
  },
  "ss|ywvzlti1ni1jzmi6cnbnyk5uvtlyrervngfxwg@185.135.86.175:9094": {
   "config": "ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg@185.135.86.175:9094#0107%20%7C%20%F0%9F%87%B1%F0%9F%87%BB%20NetFreedom0%20",
   "country": "LV",
   "first_seen": "2026-11-26T01:00:42.147574+00:00",
-  "last_seen": "2026-11-26T03:30:38.391872+00:00",
+  "last_seen": "2026-11-26T04:00:46.288860+00:00",
   "protocol": "ss"
  },
  "ss|ywvzlti1ni1jzmi6mktvyuuyythov1r2dunamw@213.183.63.60:9066": {
   "config": "ss://YWVzLTI1Ni1jZmI6MktVYUUyYThOV1R2dUNaMw@213.183.63.60:9066#0082%20%7C%20%F0%9F%87%A7%F0%9F%87%AC%20NetFreedom0%20",
   "country": "BG",
   "first_seen": "2026-11-26T01:00:42.147574+00:00",
-  "last_seen": "2026-11-26T03:30:38.391872+00:00",
+  "last_seen": "2026-11-26T04:00:46.288860+00:00",
   "protocol": "ss"
  },
  "ss|ywvzlti1ni1ny206wljwz2fczud4devosvhndmhwa1pcs3o5r25xulmyzfljedlpk2eyaxdond0@79.127.184.104:19999": {
@@ -73,7 +73,7 @@
   "config": "trojan://1sUm9iYpsjLCOC9THsL9cg@ipfast.kingmna.com:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2FTELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER&security=tls&insecure=0&host=pirebepo646.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%94%B0%20%40prrofile_purple%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29",
   "country": "US",
   "first_seen": "2026-11-26T01:00:42.147574+00:00",
-  "last_seen": "2026-11-26T03:30:38.391872+00:00",
+  "last_seen": "2026-11-26T04:00:46.288860+00:00",
   "protocol": "trojan"
  },
  "trojan|gbeqn2bggzffexc5ptthua@146.75.59.186:443": {
@@ -122,14 +122,14 @@
   "config": "vless://17ead557-8407-42ae-b9a1-f11a869f99c6@ifi1.modemjibi.com:993?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ifi1.modemjibi.com.#%F0%9F%94%B0%20%40prrofile_purple%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29",
   "country": "DE",
   "first_seen": "2026-11-26T01:00:42.147574+00:00",
-  "last_seen": "2026-11-26T03:30:38.391872+00:00",
+  "last_seen": "2026-11-26T04:00:46.288860+00:00",
   "protocol": "vless"
  },
  "vless|1b0052b8-a7ee-4f63-91fe-c35d4cf1f188@90819ce5a2221d4e.1f6.ir:8193": {
   "config": "vless://1b0052b8-a7ee-4f63-91fe-c35d4cf1f188@90819ce5a2221d4e.1f6.ir:8193?encryption=mlkem768x25519plus.native.0rtt.e1Hds3F6-p26a02vbxJiHGALW23bMrMXgYNOnlcDDSQ#%F0%9F%87%AB%F0%9F%87%B7%20%40NamiraConfigs",
   "country": "DE",
   "first_seen": "2026-11-26T01:00:42.147574+00:00",
-  "last_seen": "2026-11-26T03:30:38.391872+00:00",
+  "last_seen": "2026-11-26T04:00:46.288860+00:00",
   "protocol": "vless"
  },
  "vless|33393561-4c63-416f-91dd-f88efc57c42a@hw3.modemjibi.com:993": {
@@ -332,7 +332,7 @@
   "config": "vless://a346c521-7a7f-452b-9356-a4893feb5982@leviko-nl4680.shopingggg.ir:443?security=reality&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&flow=xtls-rprx-vision&sni=ee1-r.bankai.party&sid=457fab2ac885dbe0#%F0%9F%87%BA%F0%9F%87%B8%20%40NamiraConfigs",
   "country": "DE",
   "first_seen": "2026-11-26T01:00:42.147574+00:00",
-  "last_seen": "2026-11-26T03:30:38.391872+00:00",
+  "last_seen": "2026-11-26T04:00:46.288860+00:00",
   "protocol": "vless"
  },
  "vless|a35c508f-4d5d-4531-842e-6e9d43c762c0@leviko-se1767.shopingggg.ir:4443": {
@@ -346,14 +346,14 @@
   "config": "vless://b28e9267-bb15-4e09-b126-a49aad8a52a2@nl1ww.sublinkplas.ir:64361?flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=chrome&pbk=BY0QfaqwH2Kv1WUU584R7NHcm4Z1Praq5YuYGrJ1BkM&sid=aa74a7a98e86f2ed&allowInsecure=1#%40NamiraConfigs",
   "country": "NL",
   "first_seen": "2026-11-26T01:00:42.147574+00:00",
-  "last_seen": "2026-11-26T03:30:38.391872+00:00",
+  "last_seen": "2026-11-26T04:00:46.288860+00:00",
   "protocol": "vless"
  },
  "vless|b28e9267-bb15-4e09-b126-a49aad8a52a2@tpaa.sublinkplas.ir:12190": {
   "config": "vless://b28e9267-bb15-4e09-b126-a49aad8a52a2@tpaa.sublinkplas.ir:12190?security=reality&sni=delivery.mp.microsoft.com&fp=firefox&pbk=33hVTwP-1rQYG0F92oXJ-o1zPo4Cc8n2Uml_i9tv6XM&sid=3e5cba1bd6eb6221&allowInsecure=1#%40NamiraConfigs",
   "country": "SE",
   "first_seen": "2026-11-26T01:00:42.147574+00:00",
-  "last_seen": "2026-11-26T03:30:38.391872+00:00",
+  "last_seen": "2026-11-26T04:00:46.288860+00:00",
   "protocol": "vless"
  },
  "vless|c3b3217b-2118-441b-b376-198aa4522523@panel.jeprost.ir:443": {
@@ -409,14 +409,14 @@
   "config": "vless://dac0e736-5c69-4b7c-8b1d-27cbbc3bd948@1c.hlclub.tech:8446?type=grpc&security=reality&fp=chrome&pbk=XxWn04baea-nyjxLud3mjo15Xz1DNwlDOOken4qHNVA&sid=555ac69b22424282&sni=1c.hlclub.tech&serviceName=grpc-tunnel&spx=/6ba4a0d08820a67a#%40NamiraConfigs",
   "country": "CH",
   "first_seen": "2026-11-26T01:00:42.147574+00:00",
-  "last_seen": "2026-11-26T03:30:38.391872+00:00",
+  "last_seen": "2026-11-26T04:00:46.288860+00:00",
   "protocol": "vless"
  },
  "vless|e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.85.204:22222": {
   "config": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.85.204:22222?encryption=none&security=none&type=tcp#(S104)🇨🇵t.me/PrivateVPNs",
   "country": "FR",
   "first_seen": "2026-11-26T01:00:42.147574+00:00",
-  "last_seen": "2026-11-26T03:30:38.391872+00:00",
+  "last_seen": "2026-11-26T04:00:46.288860+00:00",
   "protocol": "vless"
  },
  "vless|e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.219.105:22222": {
