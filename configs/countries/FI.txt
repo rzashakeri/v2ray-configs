@@ -1,1 +1,0 @@
-vless://4a5e973a-d7b3-4823-9ebd-cb8e7de854db@static.204.251.62.46.clients.your-server.de:443?security=tls&alpn=h2,http/1.1&fp=chrome&sni=static.133.205.46.78.clients.your-server.de#%F0%9F%87%A9%F0%9F%87%AA%20%40NamiraConfigs

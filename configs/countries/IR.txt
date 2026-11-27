@@ -1,1 +1,0 @@
-vless://9a6a8346-43fc-485f-936f-877f98a95cd1@95.38.38.201:2080?security=tls&host=g37.vcommunity.ir&sni=g37.vcommunity.ir&fp=chrome&alpn=http%2F1.1#%F0%9F%87%A9%F0%9F%87%AA%20%40NamiraConfigs
