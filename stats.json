@@ -1,10 +1,10 @@
 {
-  "updated_at_utc": "2026-11-27T05:30:43.459628+00:00",
+  "updated_at_utc": "2026-11-27T06:00:45.182073+00:00",
   "channels": [
     "persianvpnhub"
   ],
   "retention_hours": 48,
-  "pruned_this_run": 13,
+  "pruned_this_run": 0,
   "total": 66,
   "by_protocol": {
     "ss": 20,
