@@ -1,0 +1,1 @@
+vless://47921e53-9a38-4e2e-8a39-08b38512eff4@tpll.sublinkplas.ir:12190?security=reality&encryption=none&pbk=33hVTwP-1rQYG0F92oXJ-o1zPo4Cc8n2Uml_i9tv6XM&headerType=none&fp=firefox&type=tcp&sni=delivery.mp.microsoft.com&sid=aa74a7a98e86f2ed#%40FarazV2ray%20
