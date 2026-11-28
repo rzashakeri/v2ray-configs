@@ -5,4 +5,3 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.166.253:22222?encryption=none
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5U0drR2hyMnNLSFY@23.162.152.245:443#%F0%9F%9A%80%40flyv2ray
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.53.9:22222?encryption=none&security=none&type=tcp#(S104)🇨🇵t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.87.216:22222?encryption=none&security=none&type=tcp#(S103)🇨🇵t.me/PrivateVPNs
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.85.204:22222?encryption=none&security=none&type=tcp#(S104)🇨🇵t.me/PrivateVPNs
